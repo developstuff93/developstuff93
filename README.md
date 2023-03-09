@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This is [Jose Arias](https://jose-arias-resume.herokuapp.com/), **Senior Software Engineer** with 9 years of experience.
+This is [Jose Arias]([https://jose-arias-resume.herokuapp.com/](https://jose-arias-resume.vercel.app/)), **Senior Software Engineer** with 10 years of experience.
 
 ### About Me
 - 🌱 Front-end expertise, specialized in **JavaScript** technologies.
